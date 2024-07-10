@@ -1,0 +1,14 @@
+E:\DSA\KrishnamoorthyNo\obj\Debug\net8.0\KrishnamoorthyNo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DSA\KrishnamoorthyNo\obj\Debug\net8.0\KrishnamoorthyNo.AssemblyInfoInputs.cache
+E:\DSA\KrishnamoorthyNo\obj\Debug\net8.0\KrishnamoorthyNo.AssemblyInfo.cs
+E:\DSA\KrishnamoorthyNo\obj\Debug\net8.0\KrishnamoorthyNo.csproj.CoreCompileInputs.cache
+E:\DSA\KrishnamoorthyNo\bin\Debug\net8.0\KrishnamoorthyNo.exe
+E:\DSA\KrishnamoorthyNo\bin\Debug\net8.0\KrishnamoorthyNo.deps.json
+E:\DSA\KrishnamoorthyNo\bin\Debug\net8.0\KrishnamoorthyNo.runtimeconfig.json
+E:\DSA\KrishnamoorthyNo\bin\Debug\net8.0\KrishnamoorthyNo.dll
+E:\DSA\KrishnamoorthyNo\bin\Debug\net8.0\KrishnamoorthyNo.pdb
+E:\DSA\KrishnamoorthyNo\obj\Debug\net8.0\KrishnamoorthyNo.dll
+E:\DSA\KrishnamoorthyNo\obj\Debug\net8.0\refint\KrishnamoorthyNo.dll
+E:\DSA\KrishnamoorthyNo\obj\Debug\net8.0\KrishnamoorthyNo.pdb
+E:\DSA\KrishnamoorthyNo\obj\Debug\net8.0\KrishnamoorthyNo.genruntimeconfig.cache
+E:\DSA\KrishnamoorthyNo\obj\Debug\net8.0\ref\KrishnamoorthyNo.dll
