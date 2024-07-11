@@ -1,0 +1,14 @@
+E:\DSA\WaterBottles\bin\Debug\net8.0\WaterBottles.exe
+E:\DSA\WaterBottles\bin\Debug\net8.0\WaterBottles.deps.json
+E:\DSA\WaterBottles\bin\Debug\net8.0\WaterBottles.runtimeconfig.json
+E:\DSA\WaterBottles\bin\Debug\net8.0\WaterBottles.dll
+E:\DSA\WaterBottles\bin\Debug\net8.0\WaterBottles.pdb
+E:\DSA\WaterBottles\obj\Debug\net8.0\WaterBottles.GeneratedMSBuildEditorConfig.editorconfig
+E:\DSA\WaterBottles\obj\Debug\net8.0\WaterBottles.AssemblyInfoInputs.cache
+E:\DSA\WaterBottles\obj\Debug\net8.0\WaterBottles.AssemblyInfo.cs
+E:\DSA\WaterBottles\obj\Debug\net8.0\WaterBottles.csproj.CoreCompileInputs.cache
+E:\DSA\WaterBottles\obj\Debug\net8.0\WaterBottles.dll
+E:\DSA\WaterBottles\obj\Debug\net8.0\refint\WaterBottles.dll
+E:\DSA\WaterBottles\obj\Debug\net8.0\WaterBottles.pdb
+E:\DSA\WaterBottles\obj\Debug\net8.0\WaterBottles.genruntimeconfig.cache
+E:\DSA\WaterBottles\obj\Debug\net8.0\ref\WaterBottles.dll
